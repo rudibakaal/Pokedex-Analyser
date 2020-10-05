@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 pd.options.display.max_columns = None
 pd.options.display.max_rows = None
 
-pokemon = "/Users/rudibakaal/Downloads/Pokemon.csv"
+pokemon = "Pokemon.csv"
 ds = pd.read_csv(pokemon).fillna('')
 
 # Omitting specific unwanted pokemon in ds
