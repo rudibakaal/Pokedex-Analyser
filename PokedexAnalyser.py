@@ -31,6 +31,8 @@ for x in ds['Type 1'].unique():
     poketypes.append(x)
 
 
+hp = (ds.iloc[:, [2, 5]])
+
 def highestHp(df, list):
     for x in poketypes:
         print('\nHighest HP Pokemon for %s\n' %(x))
@@ -50,7 +52,7 @@ def highestHp(df, list):
     plt.ylabel('HP')
     plt.show()
 
-# highestHp(hp, poketypes)
+highestHp(hp, poketypes)
 
 
 attack = (ds.iloc[:, [2, 6]])
@@ -99,9 +101,6 @@ def highestDefense(df, list):
     plt.show()
 
 # highestDefense(defense, poketypes)
-
-
-hp = (ds.iloc[:, [2, 5]])
 
 
 speed = (ds.iloc[:, [2, 10]])
