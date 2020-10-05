@@ -2,7 +2,7 @@
 
 ## Intro/Motivation
 
-This program comes equipped with 9 functions to enable users to quickly access a range of different pokedex related functions and graphs. 
+This program comes equipped with 8 functions to enable users to quickly access a range of different pokedex related functions and graphs. 
 
 As hierarchical indexing is used, this program can be quite useful in higher dimensional pokedex analysis and manipulation, particularly around Types and their relation to other stats (i.e. HP, Attack, etc.)  
 
