@@ -1,6 +1,6 @@
 # Pokedex Analyser 
 
-## Intro/Motivation
+## Motivation
 
 Hierarchical indexing is leveraged to seek insights into descriptive statistics of pokedex entries. This can be quite useful in higher dimensional analyses and manipulation, particularly around Types and their relation to other stats (e.g. HP, Attack, etc.)  
 
