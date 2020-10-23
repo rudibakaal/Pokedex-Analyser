@@ -6,6 +6,8 @@ Hierarchical indexing is leveraged to seek insights into descriptive statistics 
 
 ![spattk](https://user-images.githubusercontent.com/48378196/96965324-ad5fb200-1557-11eb-9dfe-5eb17085008a.png)
 
+![hp](https://user-images.githubusercontent.com/48378196/96965491-fca5e280-1557-11eb-9f83-b312767cf35f.png)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) 
